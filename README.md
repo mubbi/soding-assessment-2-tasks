@@ -15,6 +15,7 @@ This app uses a number of projects to work properly:
 * Twitter Bootstrap - great UI boilerplate for modern web apps
 * jQuery - The Write Less, Do More, JavaScript Library
 * TinyMCE Editor - Nice, simple and quick WYSIWYG HTML Editor
+* FontAwesome - Awesome and lightweight icons using fonts
 
 ### Minimum Requirements
 * PHP 5.3.7 (PHP version 5.6 or newer is recommended for better performance and security issues)
