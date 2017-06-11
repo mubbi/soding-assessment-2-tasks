@@ -33,6 +33,6 @@ This app uses a number of projects to work properly:
 | mubbi@soding.com | soding123 |
 
 ### NOTE
-* This app has GZIP unabled (which may cause crash if you edit and it has whitespace)
+* This app has GZIP Enabled (which may cause website crash if you edit something and it has whitespace)
 * This app has CSRF protection enabled (one post form at a time for security purpose)
 * This app uses custom base url (to easily use absolute urls)
